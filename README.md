@@ -7,5 +7,8 @@
 
 2) **stock_observer:**  The subject maintains list of dependents who are to be notified about the stock changes by keeping an observer to track the changes in the depentents. There can be multiple dependents who want different stock changes.  It uses observer design pattern.
 
-### Day 0: February 2, 2017
+### Day 1: February 2, 2017
 3) **singleton:** It implements singleton design pattern in class to have only one instance.
+
+### Day 2: February 3, 2017
+4) **atm_machine:** It explains the different states the atm machine could be in and instructs user according to his action. User can insert card, insert pin, withdraw cash and eject card. It gives a message if atm is out of money.
