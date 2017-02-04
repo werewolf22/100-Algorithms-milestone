@@ -12,3 +12,6 @@
 
 ### Day 2: February 3, 2017
 4) **atm_machine:** It explains the different states the atm machine could be in and instructs user according to his action. User can insert card, insert pin, withdraw cash and eject card. It gives a message if atm is out of money.
+
+ ### Day 3: February 4, 2017
+ 5) **animal_property:** It can add common abilities of animals as function with varying implementation and can be useful to refactor the code when there are large no of animals implementing the same function signature but varying implementation.
