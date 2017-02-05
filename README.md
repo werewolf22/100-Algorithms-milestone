@@ -16,5 +16,5 @@
 ### Day 3: February 4, 2017
  5) **animal_property:** It can add common abilities of animals as function with varying implementation and can be useful to refactor the code when there are large no of animals implementing the same function signature but varying implementation.
 
- ### Day 4: February 5, 2017
+### Day 4: February 5, 2017
  6) **letter_count:** It can count the no of times a letter is used in the array of strings supplied.
