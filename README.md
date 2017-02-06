@@ -18,3 +18,6 @@
 
 ### Day 4: February 5, 2017
  6) **letter_count:** It can count the no of times a letter is used in the array of strings supplied.
+
+### Day 5: February 6,2017
+ 7) **array_flattener:** It converts multi-dimensional array to one-dimensional array by concatination of array returned from recursion in multi-dimensional array.
