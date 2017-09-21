@@ -25,3 +25,5 @@
 ### Day 6: 19 Sep 2017
  8) **two sum:** Given an array of integers, return indixes of the two numbers such that they add up to a specific target.You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
+### Day 7:
+ 9) **log processor:** prints the number of errors and warnings as per the date in the log.
