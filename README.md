@@ -27,3 +27,6 @@
 
 ### Day 7:
  9) **log processor:** prints the number of errors and warnings as per the date in the log.
+
+### Day 8:
+ 10) **common elements:** Prints the number of common elements in two given array.
