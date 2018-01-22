@@ -1,5 +1,8 @@
+
+# works only if 'n' no. of same element is common in both the array then there should be the same element less than 'n+3' times on any one of the array
+
 array_one =[1,2,3,4,5,6,76,8,9,'hi','hi',"hi","hi"]
-array_two =[1,24,'hi',45,7,8,9,10,"hi","hi"]
+array_two =[1,24,45,7,8,9,10,"hi","hi"]
 results= []
 array_one.each do | o|
 o = o.to_s
@@ -23,27 +26,25 @@ o = o.to_s
 					end
 					#puts "------------"
 					# puts results
-				end 
+				end
 				unless garbage
 					results <<  {o => 1}
 				end
 			end
-		end	
+		end
 	end
 end
 
 results.each do |result|
 	result.each do |comm,repeat|
 		#puts repeat
-			perfect = Math.sqrt(repeat)
-			perfect=perfect.to_i
-			if perfect == perfect.to_i
+			sqrt = Math.sqrt(repeat)
+			perfect=sqrt.to_i
+			if perfect == sqrt
 				#puts "#{perfect} #{perfect.to_i}"
-				puts "the given arrays contain #{perfect.to_i} common #{comm}"
+				puts "the given arrays contain #{perfect} common #{comm}"
 			elsif repeat > perfect*perfect
 				puts "the given arrays contain #{perfect} common #{comm}"
-			else
-				puts "the given arrays contain 1 common #{comm}"
 			end
 	end
 end
