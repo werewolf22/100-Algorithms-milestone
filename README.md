@@ -1,6 +1,6 @@
-# I couldn't continue with #100DaysOfAlgorithm Challenge, so started #100AlgorithmMilestones.
+# I couldn't continue with 100DaysOfAlgorithm Challenge, so started 100AlgorithmMilestone.
 
-# I will be making a milestone for 100 proper developer based brainstromed algorithm written with no daily goals instead a half yearly or a yearly goal and write about how I approached the problem. I will also be shareing it on twitter and discuss it there.
+# I will be making a milestone for 100 proper developer based algorithm written with no daily goals instead a half yearly or a yearly goal and write about how I approached the problem.
 
 ##Logs
 
